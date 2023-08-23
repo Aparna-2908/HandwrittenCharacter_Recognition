@@ -7,3 +7,4 @@ ii) Generate dataset
 iii) Train the model and calculate it's frequency
 iv) Live Prediction
 
+[Git](https://github.com/Aparna-2908/HandwrittenCharacter_Recognition)
